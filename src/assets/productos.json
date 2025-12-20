@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Anillo",
+      "descripcion": "Anillo plata lisa",
+      "precio": 45.00,
+      "avatar": "/anillos 1.png",
+      "categoria": "",
+      "stock": 15,
+      "detalles": "con piedra simil esmeraldas"
+    },
+    {
+      "id": 2,
+      "nombre": "Anillo",
+      "descripcion": "Anillo con cristales",
+      "precio": 24.990,
+      "avatar": "/anillos 2.png",
+      "categoria": "anillo",
+      "stock": 10,
+      "detalles": "Para disfrutar"
+    },
+    {
+      "id": 3,
+      "nombre": "Anillo plata",
+      "descripcion": "Anillo plata lisa",
+      "precio": 20.000,
+      "avatar":"/anillos 3.png",
+      "categoria": "anillo",
+      "stock": 8,
+      "detalles": "Diseño unico made in Thailandia"
+    },
+    {
+      "id": 4,
+      "nombre": "Anillo plata",
+      "descripcion": "Anillo con piedras",
+      "precio": 34.990,
+      "avatar": "/anillos 4.png",
+      "categoria": "anillo",
+      "stock": 12,
+      "detalles": "Para disfrutarlo"
+    }
+  ]
+}
