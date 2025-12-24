@@ -74,7 +74,7 @@ export default function IniciarSesion() {
         </button>
       </form>
       <p style={{ marginTop: "20px", fontSize: "12px", color: "#666" }}>
-        <strong>¿No recuerdas tus credenciales de admin?</strong>
+        <strong>admin / 1234@admin</strong>
         </p>
 
     </div>
